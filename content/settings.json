@@ -1,24 +1,24 @@
 {
-  "store_id": 1292,
-  "name": "primeirospassos",
   "domain": "primeirospassos.netlify.app",
-  "short_name": "primeirospassos",
-  "description": "primeirospassos",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#e5989b",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "minty",
+    "custom": "niche-baby"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/primeirospassos",
+  "logo": "/img/uploads/baby-logo.png",
+  "name": "Primeiros Passos - Baby Boutique",
+  "short_name": "Primeiros Passos ",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/primeirospassos"
+  "secondary_color": "#6d6875",
+  "icon": "/img/uploads/baby-logo.png",
+  "store_id": 1292,
+  "description": "Loja de calçados infantis. 6d6875",
+  "large_icon": "/img/uploads/baby-logo.png"
 }
