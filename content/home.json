@@ -3,11 +3,15 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/frete-gratis.webp",
-      "link": "",
-      "alt": "Frete grátis em compras acima de 150R$",
-      "mobile_img": "/img/uploads/frete-gratis-mobile.webp"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner2.png"
+        }
+      ]
     },
     {
       "type": "info-bar",
