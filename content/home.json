@@ -9,7 +9,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.png"
+          "img": "/img/uploads/frete-gratis.webp",
+          "mobile_img": "/img/uploads/frete-gratis-mobile.webp",
+          "alt": "Frete grátis em pedidos acima de R$ 150"
         }
       ]
     },
