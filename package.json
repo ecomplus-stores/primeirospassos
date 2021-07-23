@@ -37,11 +37,11 @@
     "url": "git+https://github.com/ecomplus/storefront-starter.git"
   },
   "dependencies": {
-    "@ecomplus/storefront-template": "^2.0.0-beta.121",
-    "@netlify/zip-it-and-ship-it": "^1.7.0",
-    "firebase-tools": "^9.8.0"
+    "@ecomplus/storefront-template": "^2.0.0-beta.133",
+    "@netlify/zip-it-and-ship-it": "^4.14.0",
+    "firebase-tools": "^9.16.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.14"
+    "browser-sync": "^2.27.4"
   }
 }
