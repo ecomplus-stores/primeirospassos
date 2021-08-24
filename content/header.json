@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "FRETE GRÁTIS em pedidos acima de R$150",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -12,7 +12,8 @@
       {
         "title": "Esta loja é um PWA",
         "link": "/posts/esta-loja-e-um-pwa"
-      }
+      },
+      {}
     ],
     "phone_wpp": true,
     "socials": true
@@ -20,7 +21,7 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
