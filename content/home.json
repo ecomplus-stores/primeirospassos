@@ -13,7 +13,8 @@
           "mobile_img": "/img/uploads/frete-gratis-mobile.webp",
           "alt": "Frete grátis em pedidos acima de R$ 150"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
