@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.1aa59e118c0aedd9f2da31df958675ce.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.3a600f246e46b08f1d448f5016c7c125.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.32cb9e93ba880034cc412f91aeedc511.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.b36166d65ec204ec5605588eacbeae88.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.987239ae47d42cb06cd7da736e67ef26.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Primeiros Passos - Baby Boutique",
+  "short_name": "Primeiros Passos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja de calçados infantis.",
+  "background_color": "#ffffff",
+  "theme_color": "#e5989b"
+}
