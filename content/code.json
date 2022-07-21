@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".prices__installments {\n    color: #222831;\n}\n\n.prices__discount {\n    color: #222831;\n}",
   "html_head": "",
   "html_body": ""
 }
