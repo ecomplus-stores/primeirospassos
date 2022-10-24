@@ -1,5 +1,5 @@
 {
-  "css": ".prices__installments {\n    color: #222831;\n}\n\n.prices__discount {\n    color: #222831;\n}\n\n.testimonial{\n  border: 1px solid transparent;\n  border-radius: 0.25rem;\n  vertical-align: middle;\n  padding: 0.375rem 0.75rem;\n  background-color: var(--primary-light);\n}",
+  "css": ".prices__installments {\n    color: #222831;\n}\n\n.prices__discount {\n    color: #222831;\n}\n\n.testimonial{\n  border: 1px solid #dddddd;\n  border-radius: 0.25rem;\n  vertical-align: middle;\n  padding: 0.375rem 0.75rem;\n  background-color: var(--light);\n}",
   "html_head": "",
   "html_body": ""
 }
