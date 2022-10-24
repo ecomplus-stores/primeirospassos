@@ -31,6 +31,10 @@
       "type": "page-title",
       "title": "Loja demo da E-Com Plus",
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"col-lg-6 testimonial py-5 px-2\">\n  <p class=\"lead\">\n    \"O monocard foi crucial para as nossas estratégias dentro do G4 Club para conexões. A tecnologia nos ajuda a cada vez mais a se conectar.\"\n  </p>\n  <strong>\n  G4 Club\n  </strong>\n  <small>\n  Rodrigo Casagrande - Community Manager\n  </small>\n</div>\n  \n"
     }
   ]
 }
