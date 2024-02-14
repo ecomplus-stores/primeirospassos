@@ -1,5 +1,5 @@
 {
-  "css": ".prices__installments {\n    color: #222831;\n}\n\n.prices__discount {\n    color: #222831;\n}\n\n.testimonial{\n  border: 1px solid #dddddd;\n  border-radius: 0.25rem;\n  vertical-align: middle;\n  padding: 0.375rem 0.75rem;\n  background-color: var(--light);\n}",
+  "css": ".prices__installments {\n    color: #222831;\n}\n\n.prices__discount {\n    color: #222831;\n}\n\n.testimonial{\n  border: 1px solid #dddddd;\n  border-radius: 0.25rem;\n  vertical-align: middle;\n  padding: 0.375rem 0.75rem;\n  background-color: var(--light);\n}\n\n.footer {\n background: #e5989b;\n}\n\n.footer p, a, i, h2, address {\n    color: #fff;\n}\n\n.footer__title, .footer__credits {\n    color: #fff\n}",
   "html_head": "",
   "html_body": ""
 }
