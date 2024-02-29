@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "options": {
     "buyText": "",
-    "buy": "",
+    "buy": "<a href=\"/app/#/cart\" role=\"button\" class=\"minicart__btn-cart btn btn-block btn-outline-secondary\">\n  <button type=\"button\" class=\"btn btn-primary btn-block\">\n    <i class=\"i-shopping-bag mr-1\"></i> Comprar \n  </button>\n</a>  ",
     "footer": ""
   }
 }
