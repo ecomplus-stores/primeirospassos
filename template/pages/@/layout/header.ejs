@@ -24,8 +24,6 @@ let marketingStripeStyle = ''
 })
 
 // list featured categories
-let categories = mainCategories
-console.log(categories)
 let categories = []
 let isCategoriesNavFull
 if (header.categories_list) {
@@ -36,9 +34,11 @@ if (header.categories_list) {
       return { slug: path.slice(1), name }
     })
   }
+  console.log(categories)
   if (header.categories_list.random) {
     // add up to `random` main categories
     const mainCategories = _.categories.filter(({ parent }) => !parent || !parent.slug)
+    console.log(mainCategories)
     for (let i = 0; i < header.categories_list.random && i < mainCategories.length; i++) {
       if (!categories.find(({ slug }) => mainCategories[i].slug === slug)) {
         categories.push(mainCategories[i])
