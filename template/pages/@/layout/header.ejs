@@ -24,6 +24,8 @@ let marketingStripeStyle = ''
 })
 
 // list featured categories
+let categories = mainCategories
+console.log(categories)
 let categories = []
 let isCategoriesNavFull
 if (header.categories_list) {
@@ -42,8 +44,6 @@ if (header.categories_list) {
         categories.push(mainCategories[i])
       }
     }
-   let categories = mainCategories
-   //console.log(categories)
   }
   isCategoriesNavFull = header.categories_list.full_width
 }
