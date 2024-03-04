@@ -19,7 +19,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/tenis?Tenis"
+    ],
     "random": 6,
     "full_width": true
   },
