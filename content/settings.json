@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#e5989b",
   "theme": {
-    "bootswatch": "minty",
-    "custom": "niche-baby"
+    "bootswatch": "cyborg",
+    "custom": "clean-dark"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/primeirospassos",
